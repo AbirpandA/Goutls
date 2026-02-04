@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"go-dbutils/godbutils"
+	"go-dbutils/internals/dbutils"
 )
 
 func main() {
